@@ -1,0 +1,27 @@
+body {
+    background-color: lightcoral;
+}
+/* Style my YOLO image */
+#warrior {
+    height: 200px;
+    width: 200px;
+}
+#monkey {
+    height: 400px;
+    width: 400px
+}
+img {
+    border-radius: 10px;
+    border: 5px solid black;
+}
+.fancy {
+    border-radius: 200px;
+}
+ul > button {
+    font-size: 36px;
+}
+h1 {
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+}
